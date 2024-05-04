@@ -6,7 +6,7 @@ class Entry
     public const int TICKS_PER_SEC = 30;
     public const int MS_PER_TICK = 1000 / TICKS_PER_SEC;
     private static bool running = false;
-    public const string hash = "53C263BD1FBEF56AE15D545E486BBFF7F512A7CB644634EB64F612BA0CAD3992";
+    public const string hash = "";
     public const string version = "1.2.1";
     public const string H3MPMinimumVersion = "1.9.9";
 
