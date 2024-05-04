@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "H3MPIndexServer": {
+      "commandName": "Project",
+      "commandLineArgs": "-p 7861"
+    }
+  }
+}
